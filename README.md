@@ -26,25 +26,4 @@ i
 ​
  ⋅x 
 i
-​
- )+b)
 
-where 
-f
-f is the activation function, 
-x
-i
-x 
-i
-​
- ​ are inputs, 
-w
-i
-w 
-i
-​
- ​ are weights and 
-b
-b is bias.
-
-Example: Used for simple problems like checking whether a number is greater than a threshold (yes/no type outputs).
